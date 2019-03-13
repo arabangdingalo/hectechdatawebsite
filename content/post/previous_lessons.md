@@ -7,7 +7,7 @@ image: "prev_lessons.jpeg"
 # Get to know the guest speakers before arriving to class
 
 ## Christophe Baroux
-Director in South Europe, Middle East, and Africa for software company Docker, Inc.
+Director in South Europe, Middle East, and Africa for software company Docker, Inc. [LinkedIn] (https://www.linkedin.com/in/christophebaroux/)
 
 *What is Docker?*
 
@@ -18,3 +18,4 @@ By combining its industry-leading container engine technology, an enterprise-gra
 ## Ivan Frain
 
 TitleSenior Manager, Lead software architect, Smart Data and IoT for PwC France
+[LinkedIn] (https://www.linkedin.com/in/ivanfrain/)
