@@ -13,3 +13,5 @@ Let the people who were once in your shoes answer that for you.
 "I really enjoyed the class. Although I was initially a bit worried that I would not understand the tech jargon, I quickly found that the Professor and his guest lecturers were able to break concepts down into manageable information for me." -Daniel Goldberg, Spring 2019
 
 "I loved learning about the basics of software in a clear and concise way. There's often a lot of mystery surrounding the big buzzwords of the tech industry and Professor Mazars did a fantastic job of breaking those down for the class" -Max Marell, Spring 2019
+
+"Tech, Data, and Innovation taught me all about making an app from production to implementation and even business model reviews. If you're thinking of working in this economy, this class would put you a step ahead in any tech field" -Arabang, Spring 2019
