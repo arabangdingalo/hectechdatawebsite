@@ -51,16 +51,11 @@ paginate        = 6
     weight = 150
 
 [[menu.main]]
-  name = "Tech News"
-  url = "/tags/golang/"
+  name = "Tech Resources"
+  url = "/tags/tech_resources/"
   weight = 100
 
 [[menu.main]]
   name = "Syllabus"
-  url = "/categories/food/"
+  url = "/categories/syllabus/"
   weight = 99
-
-[[menu.main]]
-  name = "External"
-  url = "https://google.com/"
-  weight = 95
