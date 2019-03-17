@@ -2,7 +2,7 @@
 title: "Recommended Resources"
 date: 2019-03-08T15:09:57+01:00
 draft: false
-image: "alumni.jpeg"
+image: "techresources.jpeg"
 ---
 Keep your tech knowledge base up to date
 
