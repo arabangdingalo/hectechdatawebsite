@@ -52,7 +52,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "Tech Resources"
-  url = "/tags/tech_resources/"
+  url = "/tags/tech resources/"
   weight = 100
 
 [[menu.main]]
