@@ -37,7 +37,8 @@ Keep your tech knowledge base up to date
 * Verge
 * Recode
 
-## **Twitter Accounts**
+## **Tech Focused Twitter Accounts**
+
 * Dave McClure @davemcclure
 * Marc Andreesen @pmarca
 * Seth Godin @thisissethsblog
