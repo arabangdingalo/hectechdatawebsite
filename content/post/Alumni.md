@@ -1,5 +1,5 @@
 ---
-title: "What can I do with class?"
+title: "Testimonials"
 date: 2019-03-08T15:09:57+01:00
 draft: false
 image: "alumni.jpeg"
