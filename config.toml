@@ -57,5 +57,5 @@ paginate        = 6
 
 [[menu.main]]
   name = "Course Info"
-  url = "/categories/courseinfo/"
+  url = "/tags/courseinfo/"
   weight = 99
