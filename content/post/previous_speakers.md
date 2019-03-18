@@ -3,7 +3,7 @@ title: "Previous Speakers"
 date: 2019-03-08T15:09:57+01:00
 draft: false
 image: "prev_lessons.jpeg"
-tags: ["About"]
+tags: ["course"]
 ---
 # Get to know the guest speakers before arriving to class
 
