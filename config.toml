@@ -56,6 +56,6 @@ paginate        = 6
   weight = 100
 
 [[menu.main]]
-  name = "Syllabus"
-  url = "/categories/syllabus/"
+  name = "Course Info"
+  url = "/categories/courseinfo/"
   weight = 99
