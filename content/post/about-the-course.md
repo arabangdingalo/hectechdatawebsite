@@ -8,3 +8,5 @@ tags: [
 ]
 ---
  Tech, Data & Innovation gives you the power, knowledge and tools you need to dive into the new world of technology. This website exists to serve the current students and alumni fully capitalize on the knowledge and resources imparted on us by Professor Mazars any time, any where. Ride the wave or drown.
+
+ What a great course!
