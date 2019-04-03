@@ -14,4 +14,4 @@ Get in touch!
 
 Email: gma@ubeeko.com
 
-[Prof Mazars' LinkedIn] (https://www.linkedin.com/in/ghislainmazars/?originalSubdomain=fr)
+[Prof Mazars' LinkedIn](https://www.linkedin.com/in/ghislainmazars/?originalSubdomain=fr)
